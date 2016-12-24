@@ -16,7 +16,7 @@
 	<div class="loginForm">
 		<form method="post" name="" action="usercheck">
 			<div class="box">
-				양지재수정함.2 아이디<input type="text" class="iText" name="member_id" > <br>
+				양지재수정함.23 아이디<input type="text" class="iText" name="member_id" > <br>
 				비밀번호<input type="password" name="memberID" id="" class="iText"> <br>
 			</div>
 			<input type="submit" value="로그인" />
