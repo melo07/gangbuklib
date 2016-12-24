@@ -16,8 +16,8 @@
 	<div class="loginForm">
 		<form method="post" name="" action="usercheck">
 			<div class="box">
-				<input type="text" class="iText" name="member_id" > <br>
-				<input type="password" name="memberID" id="" class="iText"> <br>
+				아이디<input type="text" class="iText" name="member_id" > <br>
+				비밀번호<input type="password" name="memberID" id="" class="iText"> <br>
 			</div>
 			<input type="submit" value="로그인" />
 		</form>
