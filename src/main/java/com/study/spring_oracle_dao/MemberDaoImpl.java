@@ -14,7 +14,7 @@ public class MemberDaoImpl implements MemberDao{
 	
 	@Override
 	public int userIdCheck(String userid) throws Exception {
-		
+		//wewee
 		System.out.println("userIdCheck start..");
 //		int a = sqlSession.selectOne(mapper+"useridcheck",userid);
 		int a = sqlSession.selectOne("useridcheck",userid);
